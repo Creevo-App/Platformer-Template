@@ -1,6 +1,7 @@
 @tool
 class_name Fruit
 extends Area2D
+const Player = preload("res://source/player/player.gd")
 
 
 enum Fruits {
